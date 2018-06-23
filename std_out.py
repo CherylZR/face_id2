@@ -13,7 +13,7 @@ import time
 #def is_number(uchar):
     return uchar >= u'0' and uchar<=u'9'
 
-def is_alphabet(uchar):
+#def is_alphabet(uchar):
     return (uchar >= u'a' and uchar<=u'z') or (uchar >= u'A' and uchar<=u'Z')
 
 def check_english(name):
