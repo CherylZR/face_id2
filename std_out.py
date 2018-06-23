@@ -10,7 +10,7 @@ wiki = WikiApi()
 import logging
 import time
 
-def is_number(uchar):
+#def is_number(uchar):
     return uchar >= u'0' and uchar<=u'9'
 
 def is_alphabet(uchar):
